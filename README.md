@@ -29,7 +29,7 @@
 1. **Склонируйте репозиторий:**
 
    ```sh
-   git clone https://github.com/yourusername/product-calculator.git
+   git clone https://github.com/Abdulaziz6921/product-calculator.git
    cd product-calculator
 
    ```
